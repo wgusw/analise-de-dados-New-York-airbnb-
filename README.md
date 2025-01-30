@@ -8,6 +8,7 @@ A análise utiliza dados públicos do Airbnb para entender melhor o mercado de a
 📌 Principais perguntas analisadas:
 
 🏙️ Quais regiões possuem os preços mais altos e mais baixos?
+<br> 
 🏠 Qual o tipo de acomodação mais comum em cada bairro?
 ⭐ Existe uma relação entre avaliações e o preço das acomodações?
 📊 Como a distribuição de preços varia entre os bairros e tipos de acomodação?
